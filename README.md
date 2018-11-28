@@ -23,3 +23,5 @@
  - Illidan Mailken, resourcesIllidan.s2z
  - Genji Madman, resourcesGenji.s2z
  - Jaina Ellonia, resourcesJaina.s2z
+ - Chaos Knight Ravenor, resourcesChaosKnight.s2z
+ - Ember Spirit Dark Lady, resourcesEmberSpirit.s2z
