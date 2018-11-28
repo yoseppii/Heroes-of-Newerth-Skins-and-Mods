@@ -25,3 +25,7 @@
  - Jaina Ellonia, resourcesJaina.s2z
  - Chaos Knight Ravenor, resourcesChaosKnight.s2z
  - Ember Spirit Dark Lady, resourcesEmberSpirit.s2z
+ - Faceless Void Chronos, resourcesFacelessVoid.s2z
+ - Juggernaut SwiftBlade, resourcesJuggernaut.s2z
+ - Spectre SandWraith, resourcesSpectre.s2z
+ - Dota Monkey King, resourcesMonkeyKing.s2z
