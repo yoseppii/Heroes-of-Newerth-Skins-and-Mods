@@ -40,7 +40,7 @@
  - Jakiro Draconis, resourcesJakiro.s2z
  - AntiMage MageBane, resourcesAntiMage.s2z
  - Alchemist Salomon, resourcesAlchemist.s2z
- ---
+   
  - Dota Sounds, resourcesDotaSounds.s2z
  - Dota Runes, resourcesDota2Runes.s2z
  
