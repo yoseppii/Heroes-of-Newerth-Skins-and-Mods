@@ -29,3 +29,19 @@
  - Juggernaut SwiftBlade, resourcesJuggernaut.s2z
  - Spectre SandWraith, resourcesSpectre.s2z
  - Dota Monkey King, resourcesMonkeyKing.s2z
+ - Razor Corrupted Disciple, resourcesRazor.s2z
+ - Terrorblade Maliken, resourcesTerrorBlade.s2z
+ - Sven Hammerstorm, resourcesSven.s2z
+ - Mimix Phantom Lancer, resourcesPhantomLancer.s2z
+ - Riptide NightStalker, resourcesNightStalker.s2z
+ - Morphling Adrenaline, resourcesMorphling.s2z
+ - Luna Moonqueen, resourcesLuna.s2z
+ - Legion Commander Kane , resourcesLegionCommander.s2z
+ - Jakiro Draconis, resourcesJakiro.s2z
+ - AntiMage MageBane, resourcesAntiMage.s2z
+ - Alchemist Salomon, resourcesAlchemist.s2z
+ ---
+ - Dota Sounds, resourcesDotaSounds.s2z
+ - Dota Runes, resourcesDota2Runes.s2z
+ 
+ 
