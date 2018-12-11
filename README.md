@@ -40,6 +40,8 @@
  - Jakiro Draconis, resourcesJakiro.s2z
  - AntiMage MageBane, resourcesAntiMage.s2z
  - Alchemist Salomon, resourcesAlchemist.s2z
+ - LoneDruid WildSoul, resourcesLoneDruid.s2z
+ - NagaSiren Zephyr, resourcesNagaSiren.s2z
  
  - Dota Sounds, resourcesDotaSounds.s2z
  - Dota Runes, resourcesDota2Runes.s2z
