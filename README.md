@@ -42,6 +42,9 @@
  - Alchemist Salomon, resourcesAlchemist.s2z
  - LoneDruid WildSoul, resourcesLoneDruid.s2z
  - NagaSiren Zephyr, resourcesNagaSiren.s2z
+ - DrowRanger Arachna, reourcesDrowRanger.s2z
+ - GyroCopter Artillery, resourcesArtillery.s2z
+ - Undying Oogie, resourcesUndying.s2z
  
  - Dota Sounds, resourcesDotaSounds.s2z
  - Dota Runes, resourcesDota2Runes.s2z
